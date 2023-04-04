@@ -1,3 +1,9 @@
+# **RESUELTO - HOMEWORK 04 | JAVASCRIPT II**
+
+![Parte 1](https://github.com/JHugoVelarde/fe-ct-prepcourse-fs/blob/main/M04%20JavaScript%20Bucles/Modulo4_parte1.png)
+
+![Parte 2](https://github.com/JHugoVelarde/fe-ct-prepcourse-fs/blob/main/M04%20JavaScript%20Bucles/Modulo4_parte2.png)
+
 ![HenryLogo](../Assets//logoBannerHenry.png)
 
 # **HOMEWORK 04 | JAVASCRIPT II**
