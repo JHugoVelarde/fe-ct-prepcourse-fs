@@ -1,3 +1,9 @@
+# **RESUELTO - HOMEWORK 03 | JAVASCRIPT I**
+
+![Parte 1](https://github.com/JHugoVelarde/fe-ct-prepcourse-fs/blob/main/M03%20JavaScript%20Fundamentos/Modulo3_parte1.png)
+
+![Parte 2](https://github.com/JHugoVelarde/fe-ct-prepcourse-fs/blob/main/M03%20JavaScript%20Fundamentos/Modulo3_parte2.png)
+
 ![HenryLogo](../Assets//logoBannerHenry.png)
 
 # **HOMEWORK 03 | JAVASCRIPT I**
