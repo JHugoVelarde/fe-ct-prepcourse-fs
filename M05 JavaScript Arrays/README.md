@@ -1,6 +1,6 @@
 # **RESUELTO - HOMEWORK 05 | JAVASCRIPT III**
 
-![Parte 1](https://github.com/JHugoVelarde/fe-ct-prepcourse-fs/blob/main/M04%20JavaScript%20Bucles/Modulo4_parte1.png)
+![Modulo5](https://github.com/JHugoVelarde/fe-ct-prepcourse-fs/blob/main/M05%20JavaScript%20Arrays/Modulo5.png)
 
 
 ![HenryLogo](../Assets//logoBannerHenry.png)
