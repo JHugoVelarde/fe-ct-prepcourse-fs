@@ -1,3 +1,7 @@
+# **RESUELTO - HOMEWORK 09 | EJERCICIOS EXTRA**
+
+![Modulo9](https://github.com/JHugoVelarde/fe-ct-prepcourse-fs/blob/main/M09%20Ejercicios%20Extra/Modulo9.png)
+
 ![HenryLogo](../Assets//logoBannerHenry.png)
 
 # **HOMEWORK 09 | EJERCICIOS EXTRA**
