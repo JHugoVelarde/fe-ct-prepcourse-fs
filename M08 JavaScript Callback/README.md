@@ -1,6 +1,6 @@
 # **RESUELTO - HOMEWORK 08 | JAVASCRIPT VI**
 
-![Modulo7](https://github.com/JHugoVelarde/fe-ct-prepcourse-fs/blob/main/M08%20JavaScript%20Callback/Modulo8.png)
+![Modulo8](https://github.com/JHugoVelarde/fe-ct-prepcourse-fs/blob/main/M08%20JavaScript%20Callback/Modulo8.png)
 
 ![HenryLogo](../Assets//logoBannerHenry.png)
 
