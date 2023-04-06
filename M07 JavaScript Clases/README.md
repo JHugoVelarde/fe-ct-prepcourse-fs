@@ -1,3 +1,7 @@
+# **RESUELTO - HOMEWORK 07 | JAVASCRIPT V**
+
+![Modulo7](https://github.com/JHugoVelarde/fe-ct-prepcourse-fs/blob/main/M06%20JavaScript%20Clases/Modulo7.png)
+
 ![HenryLogo](../Assets//logoBannerHenry.png)
 
 # **HOMEWORK 07 | JAVASCRIPT V**
