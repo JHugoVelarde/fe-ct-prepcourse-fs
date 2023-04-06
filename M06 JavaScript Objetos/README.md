@@ -1,6 +1,6 @@
 # **RESUELTO - HOMEWORK 06 | JAVASCRIPT IV**
 
-![Modulo5](https://github.com/JHugoVelarde/fe-ct-prepcourse-fs/blob/main/M06%20JavaScript%20Objetos/Modulo6.png)
+![Modulo6](https://github.com/JHugoVelarde/fe-ct-prepcourse-fs/blob/main/M06%20JavaScript%20Objetos/Modulo6.png)
 
 ![HenryLogo](../Assets//logoBannerHenry.png)
 
